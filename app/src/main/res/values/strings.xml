@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">nooted</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fload_desc">   Susuzluğunu giderdikten sonra yeniden kıza dönmüş.
+        “Pekâlâ,” demiş. “Sanırım ikimiz de istediğimizi aldık. Dilersen dünyayı tekrar boynuzlarımın üstüne bırakabilirsin.”
+        Karanfil Kız yanaklarından yaşlar süzülürken gülümsemiş. “Sen gerçekten çok kurnaz bir hayvansın,” demiş.
+        “Biliyorsun ki, artık bunu yapamam.” İşte o günden beri öküz çayırlarda hoplar zıplar
+        ve inekleri kovalarken dünya da küçük bir kızın omuzları üzerinde dönermiş.</string>
+
+
+</resources>
